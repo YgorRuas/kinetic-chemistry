@@ -4,7 +4,7 @@
 
 ## Welcome!
 
-<p align="justify"> Este repositório de GitHub é dedicado para a disciplina de Redes Neurais e Algoritmos Genéticos do 3° semestre do Bacharelado em Ciência e Tecnologia da Ilum Escola de Ciência, faculdade parte do Centro Nacional de Pesquisa em Energia e Materiais (CNPEM), ministrada pelo Profº Daniel Cassar. O projeto ainda está em desenvolvimento e alterações são constantes nos arquivos. Desse modo, abaixo temos uma explicação conceitual do que será abordado nesse repositório.</p>
+<p align="justify"> This GitHub repository is dedicated to the Chemical Kinetics discipline of the 4th semester of the Bachelor of Science and Technology at Ilum Escola de Ciência, a faculty part of the National Center for Research in Energy and Materials (CNPEM), taught by Prof. Amauri Jardim. The project is still under development and changes are constant in the files. Thus, below we have a conceptual explanation of what will be covered in this repository.</p>
 
 <details>
     
