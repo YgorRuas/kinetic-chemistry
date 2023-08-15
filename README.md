@@ -6,9 +6,8 @@
 
 Aaaaaaaaa
 
-## Referências
+## References
 [1]: What are Neural Networks? | IBM. Disponível em: https://www.ibm.com/topics/neural-networks.
-
 
 [2]: WIRSANSKY, E. Hands-On Genetic Algorithms with Python: Applying genetic algorithms to solve real-world deep learning and artificial intelligence problems. [s.l.]: Packt Publishing, 2020.
 
