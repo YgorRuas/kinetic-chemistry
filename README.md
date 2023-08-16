@@ -35,7 +35,7 @@ Chemical reactions involve the transformation of reactant molecules into product
 Chemical kinetics is vital in various fields of science and industry. It has applications in pharmaceuticals, materials science, environmental science, and more. By understanding the factors that control reaction rates, researchers and engineers can design and optimize processes, develop new materials, and create efficient chemical reactions for various applications. </p>
 </details>
 
-## Principais arquivos
+## Main files
 
 Os principais caminho a se tomar é visitar a pasta de `AlgoritmosGeneticos` e a pasta `RedesNeurais`.
 
