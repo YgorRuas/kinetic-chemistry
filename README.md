@@ -39,7 +39,7 @@ Chemical kinetics is vital in various fields of science and industry. It has app
 
 The main paths to take are to visit the `Code kinetic-chemistry.ipynb` file and the `How the simulation works` file.
 
-Desse modo, as seguintes pastas compõem esse repositório:
+Thus, the following masses make up this repository:
 - [Code kinetic-chemistry.ipynb](https://github.com/YgorRuas/kinetic-chemistry/blob/main/Code%20kinetic-chemistry.ipynb): Contains the code used
 - [How the simulation works](https://github.com/YgorRuas/kinetic-chemistry/blob/main/How%20the%20simulation%20works): Section with explanations of the code and related physicochemical effects
 - [LICENSE](https://github.com/YgorRuas/kinetic-chemistry/blob/main/LICENSE): Displays the license used in the repository
