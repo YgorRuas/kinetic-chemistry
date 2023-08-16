@@ -16,9 +16,9 @@ Chemical reactions involve the transformation of reactant molecules into product
 
 Reaction Rate: How fast is a reaction proceeding? This involves measuring the change in concentration of reactants or products over time.
 
-Reaction Mechanism: What steps are involved in the reaction? Many reactions occur through a series of intermediate steps. Understanding these steps can provide insights into how a reaction progresses.
+- **Reaction Mechanism:** What steps are involved in the reaction? Many reactions occur through a series of intermediate steps. Understanding these steps can provide insights into how a reaction progresses.
 
-Reaction Order: How are the concentrations of reactants related to the rate of the reaction? This helps in determining the mathematical relationship between reactant concentrations and reaction rate.
+**Reaction Order:** How are the concentrations of reactants related to the rate of the reaction? This helps in determining the mathematical relationship between reactant concentrations and reaction rate.
 
 Rate Laws: These are mathematical expressions that describe how the rate of a reaction depends on the concentrations of reactants. They are determined experimentally and can provide information about the reaction mechanism.
 
