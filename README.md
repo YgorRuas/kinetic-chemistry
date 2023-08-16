@@ -37,7 +37,7 @@ Chemical kinetics is vital in various fields of science and industry. It has app
 
 ## Main files
 
-Os principais caminho a se tomar é visitar a pasta de `AlgoritmosGeneticos` e a pasta `RedesNeurais`.
+The main paths to take are to visit the `Code kinetic-chemistry.ipynb` file and the `How the simulation works` file.
 
 <p align="justify"> Assim, encontrando a implementações dos Algoritmos Genéticos, apresentando exemplos e conclusões para os mesmos. Desse modo, resolvendo problemas de otimização e trazendo conceitos necessários para o entendimento. Já em Redes Neurais, sendo apresentado desde o funcionamento das classes até o desenvolvimento de uma Rede Neural completa, com todos os passos sendo descritos. Além disso, tem-se uma introdução ao Pytorch </p>
 
