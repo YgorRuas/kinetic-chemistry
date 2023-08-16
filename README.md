@@ -10,7 +10,29 @@
     
 __<summary>Chemical Kinetics ⚗️:</summary>__
     
-<p align="justify"> São estruturas inspiradas no cérebro humano, imitando a maneira como os neurônios biológicos sinalizam uns aos outros. As redes neurais são compostas por camadas de nós, contendo uma camada de entrada, uma ou mais camadas ocultas e uma camada de saída. Cada nó, ou neurônio artificial, se conecta a outro e tem um peso e limite associados. Se a saída de qualquer nó individual estiver acima do valor limite especificado, esse nó é ativado, enviando dados para a próxima camada da rede. Caso contrário, nenhum dado é repassado para a próxima camada da rede. As redes neurais dependem de dados de treinamento para aprender e melhorar sua precisão ao longo do tempo. No entanto, uma vez que esses algoritmos de aprendizado são ajustados para precisão, eles são ferramentas poderosas em ciência da computação e inteligência artificial, permitindo classificar e agrupar dados em alta velocidade. </p>
+<p align="justify">Chemical kinetics is the branch of chemistry that deals with the study of the rates of chemical reactions and the factors that influence those rates. In other words, it focuses on understanding how quickly or slowly reactions occur and the mechanisms by which they proceed.
+
+Chemical reactions involve the transformation of reactant molecules into product molecules. Chemical kinetics seeks to answer questions such as:
+
+Reaction Rate: How fast is a reaction proceeding? This involves measuring the change in concentration of reactants or products over time.
+
+Reaction Mechanism: What steps are involved in the reaction? Many reactions occur through a series of intermediate steps. Understanding these steps can provide insights into how a reaction progresses.
+
+Reaction Order: How are the concentrations of reactants related to the rate of the reaction? This helps in determining the mathematical relationship between reactant concentrations and reaction rate.
+
+Rate Laws: These are mathematical expressions that describe how the rate of a reaction depends on the concentrations of reactants. They are determined experimentally and can provide information about the reaction mechanism.
+
+Activation Energy: How much energy is required for a reaction to occur? This concept helps explain why some reactions are fast while others are slow.
+
+Catalysis: How do catalysts speed up reactions? Catalysts provide an alternative reaction pathway with lower activation energy, allowing reactions to occur more quickly.
+
+Temperature and Pressure Effects: How do temperature and pressure influence reaction rates? Increasing temperature generally accelerates reactions by increasing the kinetic energy of particles.
+
+Collision Theory: This theory explains that reactions occur when reactant molecules collide with sufficient energy and proper orientation. Understanding collisions is key to understanding reaction rates.
+
+Reaction Rates and Equilibrium: Chemical kinetics provides insights into how reactions proceed towards equilibrium, where the rates of the forward and reverse reactions are equal.
+
+Chemical kinetics is vital in various fields of science and industry. It has applications in pharmaceuticals, materials science, environmental science, and more. By understanding the factors that control reaction rates, researchers and engineers can design and optimize processes, develop new materials, and create efficient chemical reactions for various applications. </p>
 </details>
 
 <details>
