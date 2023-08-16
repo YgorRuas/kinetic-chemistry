@@ -42,13 +42,12 @@ The main paths to take are to visit the `Code kinetic-chemistry.ipynb` file and 
 <p align="justify"> Assim, encontrando a implementações dos Algoritmos Genéticos, apresentando exemplos e conclusões para os mesmos. Desse modo, resolvendo problemas de otimização e trazendo conceitos necessários para o entendimento. Já em Redes Neurais, sendo apresentado desde o funcionamento das classes até o desenvolvimento de uma Rede Neural completa, com todos os passos sendo descritos. Além disso, tem-se uma introdução ao Pytorch </p>
 
 Desse modo, as seguintes pastas compõem esse repositório:
-- [AlgoritmosGeneticos](https://github.com/YgorRuas/Redes_Neuro_Anais/tree/main/AlgoritmosGeneticos): Contém os experimentos de Algoritmos Genéticos
-- [RedesNeurais](https://github.com/YgorRuas/Redes_Neuro_Anais/tree/main/RedesNeurais): Contém os experimentos de Redes Neurais
-- [.gitignore](https://github.com/YgorRuas/Redes_Neuro_Anais/blob/main/.gitignore): Contém arquivos ignorados
-- [LICENSE](https://github.com/YgorRuas/Redes_Neuro_Anais/blob/main/LICENSE): Apresenta a licença usada no repositório
-- [README.md](https://github.com/YgorRuas/Redes_Neuro_Anais/blob/main/README.md): Guia para o repositório
-- [experimento_template.ipynb](https://github.com/YgorRuas/Redes_Neuro_Anais/blob/main/experimento_template.ipynb): Template que cada experimento deve seguir
-- 
+- [Code kinetic-chemistry.ipynb](https://github.com/YgorRuas/kinetic-chemistry/blob/main/Code%20kinetic-chemistry.ipynb): Contains the code used
+- [How the simulation works](https://github.com/YgorRuas/kinetic-chemistry/blob/main/How%20the%20simulation%20works): Section with explanations of the code and related physicochemical effects
+- [LICENSE](https://github.com/YgorRuas/kinetic-chemistry/blob/main/LICENSE): Displays the license used in the repository
+- [README.md](https://github.com/YgorRuas/kinetic-chemistry/blob/main/README.md): Guide to the repository
+- [Motivation](https://github.com/YgorRuas/kinetic-chemistry/blob/main/Motivation.pdf): Motivations for creating GitHub, with the established objectives
+
 ## References
 [1]:Physical Chemistry A Molecular Approach (Donald A. McQuarrie, John D. Simon).
 
