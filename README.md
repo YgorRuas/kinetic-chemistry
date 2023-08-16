@@ -39,8 +39,6 @@ Chemical kinetics is vital in various fields of science and industry. It has app
 
 The main paths to take are to visit the `Code kinetic-chemistry.ipynb` file and the `How the simulation works` file.
 
-<p align="justify"> Assim, encontrando a implementações dos Algoritmos Genéticos, apresentando exemplos e conclusões para os mesmos. Desse modo, resolvendo problemas de otimização e trazendo conceitos necessários para o entendimento. Já em Redes Neurais, sendo apresentado desde o funcionamento das classes até o desenvolvimento de uma Rede Neural completa, com todos os passos sendo descritos. Além disso, tem-se uma introdução ao Pytorch </p>
-
 Desse modo, as seguintes pastas compõem esse repositório:
 - [Code kinetic-chemistry.ipynb](https://github.com/YgorRuas/kinetic-chemistry/blob/main/Code%20kinetic-chemistry.ipynb): Contains the code used
 - [How the simulation works](https://github.com/YgorRuas/kinetic-chemistry/blob/main/How%20the%20simulation%20works): Section with explanations of the code and related physicochemical effects
