@@ -37,11 +37,6 @@ Chemical kinetics is vital in various fields of science and industry. It has app
 
 <details>
 
-__<summary>Algoritmos Genéticos :dna:</summary>__
-    
-<p align="justify"> Os algoritmos genéticos são uma família de algoritmos de busca inspirados nos princípios da evolução da natureza. Ao simular o processo de seleção natural e reprodução, eles são capazes de gerar soluções de alta qualidade para diversos problemas relacionados à busca, otimização e aprendizado. A sua analogia com a evolução natural permite que os algoritmos genéticos superem os desafios encontrados pelos algoritmos de busca e otimização convencionais, principalmente em problemas com uma grande quantidade de parâmetros e representações matemáticas complexas.</p>
-</details>
-
 ## Principais arquivos
 
 Os principais caminho a se tomar é visitar a pasta de `AlgoritmosGeneticos` e a pasta `RedesNeurais`.
