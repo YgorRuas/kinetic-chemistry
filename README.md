@@ -50,5 +50,5 @@ Thus, the following masses make up this repository:
 [1]:Physical Chemistry A Molecular Approach (Donald A. McQuarrie, John D. Simon).
 
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    :construction:  project under construction  :construction:
 </h4>
